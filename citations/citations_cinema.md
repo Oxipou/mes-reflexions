@@ -24,5 +24,5 @@ Modèle:
 
 ---
 
-> [!NOTE]  
-> Retourner à [la page sur les citations](README.md) ou à [la page principale](../README.md)
+> [!TIP]  
+> Retourner à [la page sur les citations](README.md) ou à [la page principale](../README.md).

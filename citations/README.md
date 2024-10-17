@@ -7,5 +7,5 @@ Dans le but de classer un peu les citations, je les ai regroupées sous certaine
 
 ---
 
-> [!NOTE]  
-> Retourner à [la page principale](../README.md)
+> [!TIP]  
+> Retourner à [la page principale](../README.md).
