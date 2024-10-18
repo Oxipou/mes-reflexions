@@ -26,7 +26,7 @@
 *Film : Kingdom of Heaven [^Kingdom-of-Heaven]*
 
 [^Kingdom-of-Heaven]: *Kingdom of Heaven* :  
-lire la page wikipedia du film [*ici*](https://fr.wikipedia.org/wiki/Kingdom_of_Heaven)
+lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Kingdom_of_Heaven)
 
 
 
@@ -46,7 +46,7 @@ lire la page wikipedia du film [*ici*](https://fr.wikipedia.org/wiki/Kingdom_of_
 
 
 [^Seigneur-des-anneaux-1]: *Le Seigneur des anneaux : La Communauté de l'anneau* :  
-lire la page wikipedia du film [ici](https://fr.wikipedia.org/wiki/Le_Seigneur_des_anneaux_:_La_Communauté_de_l%27anneau)
+lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Le_Seigneur_des_anneaux_:_La_Communauté_de_l%27anneau)
 
 
 
@@ -67,7 +67,7 @@ lire la page wikipedia du film [ici](https://fr.wikipedia.org/wiki/Le_Seigneur_d
 
 
 [^titre]: *titre* :  
-lire la page wikipedia du film [ici](lien.com)
+lire sa page wikipedia [*ici*](lien.com)
 -->
 
 
