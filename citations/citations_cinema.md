@@ -17,8 +17,8 @@
 *Film : Kingdom of Heaven [^Kingdom-of-Heaven]*
 
 
-\- Tu vas à une mort certaine.  
-\- Toute mort est certaine.  
+\- « Tu vas à une mort certaine. »  
+\- « Toute mort est certaine. »  
 *Film : Kingdom of Heaven [^Kingdom-of-Heaven]*
 
 
@@ -35,8 +35,8 @@ lire la page wikipedia du film [*ici*](https://fr.wikipedia.org/wiki/Kingdom_of_
 <!--------- Le Seigneur des anneaux 1 --------->
 <!--------------------------------------------->
 
-\- Je voudrais que l'anneau ne soit jamais venu à moi. Que rien de tout ceci ne se soit passé.  
-\- Comme tous ceux qui vivent des heures si sombres, mais ce n'est pas à eux de décider. Tout ce que nous devons décider, c'est que faire du temps qui nous est imparti.  
+\- « Je voudrais que l'anneau ne soit jamais venu à moi. Que rien de tout ceci ne se soit passé. »  
+\- « Comme tous ceux qui vivent des heures si sombres, mais ce n'est pas à eux de décider. Tout ce que nous devons décider, c'est que faire du temps qui nous est imparti. »  
 *Film : Le Seigneur des anneaux : La Communauté de l'anneau [^Seigneur-des-anneaux-1]*
 
 
@@ -60,13 +60,14 @@ lire la page wikipedia du film [ici](https://fr.wikipedia.org/wiki/Le_Seigneur_d
 *Film : titre [^titre]*
 
 
-\- blablabla  
-\- blablabla.  
+\- « blablabla »  
+\- « blablabla. »  
 *Film : titre [^titre]*
 
 
 
-[^titre]: référence
+[^titre]: *titre* :  
+lire la page wikipedia du film [ici](lien.com)
 -->
 
 
