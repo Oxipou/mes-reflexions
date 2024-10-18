@@ -2,7 +2,7 @@
 
 
 « Les arcs-en-ciel sont des drapeaux de la paix que Dieu déploie pour nous dire qu’il est gay »  
-*Titre : TOI + MOI [^1]*
+*Titre : TOI + MOI* [^1]
 
 
 
@@ -13,7 +13,7 @@
 
 <!--
 « citation »  
-*Titre : titre [^x]*
+*Titre : titre* [^x]
 
 
 
