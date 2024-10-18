@@ -25,9 +25,8 @@
 « Dieu le comprendra, sinon soyons sans crainte, c'est qu'il n'est pas Dieu. »  
 *Film : Kingdom of Heaven [^Kingdom-of-Heaven]*
 
-
-
-[^Kingdom-of-Heaven]: La page wikipedia du film : [ici](https://fr.wikipedia.org/wiki/Kingdom_of_Heaven)
+[^Kingdom-of-Heaven]: *Kingdom of Heaven* :  
+lire la page wikipedia du film [*ici*](https://fr.wikipedia.org/wiki/Kingdom_of_Heaven)
 
 
 
@@ -46,7 +45,8 @@
 
 
 
-[^Seigneur-des-anneaux-1]: La page wikipedia du film : [ici](https://fr.wikipedia.org/wiki/Le_Seigneur_des_anneaux_:_La_Communauté_de_l%27anneau)
+[^Seigneur-des-anneaux-1]: *Le Seigneur des anneaux : La Communauté de l'anneau* :  
+lire la page wikipedia du film [ici](https://fr.wikipedia.org/wiki/Le_Seigneur_des_anneaux_:_La_Communauté_de_l%27anneau)
 
 
 
