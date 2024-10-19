@@ -2,7 +2,9 @@
 
 Bienvenue dans ce dépôt GitHub !  
 Ici, vous trouverez des textes liés à certaines de mes pensées, réflexions, et divers sujets.  
-Pour être honnête, je ne sais pas encore exactement ce que j'y mettrai, mais voici quelques thèmes déjà présents :
+Pour être honnête, je ne sais pas encore exactement ce que j'y mettrai, mais voici les quelques thèmes déjà présents :
 
-- Des [citations](citations/README.md) :  
-Il s'agit de citations qui m'ont marqué.
+- Diverses [citations](citations/README.md) qui m'ont marqué.
+- Des [essais](/essais/README.md) sur divers sujets.
+
+
