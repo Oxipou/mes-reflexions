@@ -4,6 +4,7 @@ Ici, je mets mes essais sur des thèmes divers et variés. J'écris ces textes c
 En voici la liste :
 
 - [La place de la bise de notre société](bise.md)
+- [Monde de merde](monde-de-merde.md)
 
 ---
 
