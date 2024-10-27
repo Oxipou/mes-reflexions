@@ -11,7 +11,7 @@ Il est totalement normal qu'un homme donne des petits bisous à une femme pour l
 
 ---
 
-*Date de mise à jour : 19 octobre 2024*
+*Date de publication : 19 octobre 2024*
 
 > [!TIP]  
 > Retourner à [la page sur les essais](README.md) ou à [la page principale](../README.md).
