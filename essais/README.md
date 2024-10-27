@@ -4,7 +4,7 @@ Ici, je mets mes essais sur des thèmes divers et variés. J'écris ces textes c
 En voici la liste :
 
 - [La place de la bise de notre société](bise.md) (date du *19 octobre 2024*)
-- [Monde de merde](monde-de-merde.md) (date du *27 octobre 2024*)
+- [Monde de merde](le-monde-est-un-bordel.md) (date du *27 octobre 2024*)
 
 ---
 
