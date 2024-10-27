@@ -6,7 +6,7 @@ Premièrement, à mes yeux, il existe peu de différences entre les hommes et le
 Je peux comprendre que ce premier argument ne fasse peut-être pas l'unanimité, car il est possible qu'il y ait davantage de différences entre les sexes que ce que j'en pense. Cependant, je trouve que cette différence est déplacée et illustre la distinction qui existe actuellement entre les deux sexes dans notre société.
 
 Peut-être qu'en reformulant la situation actuelle de manière un peu caricaturale, je parviendrai à exprimer plus clairement ma façon de voir les choses :  
-Il est totalement normal qu'un homme donne des petits bisous à une femme pour lui dire bonjour. Il est tout autant admis que deux femmes s'embrassent dans le même contexte. Mais il est rare que deux hommes adoptent un comportement similaire... Je ne comprends pas cette logique.
+Il est totalement normal qu'un homme donne des petits bisous à une femme pour lui dire bonjour. Il est tout autant admis que deux femmes s'embrassent dans le même contexte. Mais il est rare que deux hommes adoptent un comportement similaire… Je ne comprends pas cette logique.
 
 
 ---

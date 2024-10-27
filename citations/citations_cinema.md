@@ -9,7 +9,7 @@
 *Film : Kingdom of Heaven* [^Kingdom-of-Heaven]
 
 
-« La sainteté, c'est de faire ce qui est juste *[...]* et, par ce que tu décides de faire, tu te montreras bon, ou non. »  
+« La sainteté, c'est de faire ce qui est juste *[…]* et, par ce que tu décides de faire, tu te montreras bon, ou non. »  
 *Film : Kingdom of Heaven* [^Kingdom-of-Heaven]
 
 
