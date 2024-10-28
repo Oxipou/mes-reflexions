@@ -16,4 +16,4 @@ En fait, je ne vois pas comment vivre alors que presque tout ce qui m’entoure 
 *Date de publication : 27 octobre 2024*
 
 > [!TIP]  
-> Retourner à [la page sur les essais](README.md) ou à [la page principale](../README.md).
+> Retourner à [la page sur les essais](../README.md) ou à [la page principale](../../README.md).
