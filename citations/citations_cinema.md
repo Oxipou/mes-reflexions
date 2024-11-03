@@ -52,6 +52,21 @@ lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Le_Seigneur_des_ann
 
 
 <!--------------------------------------------->
+<!----------- Tutto chiede salvezza ----------->
+<!--------------------------------------------->
+
+« C'est bien que tu gamberges, ça veut dire que tu travailles sur toi. Aucun médicament ne pourra te guérir. Dans ce service, tout ce que les docteurs peuvent te donner, c'est un peu d'aide, c'est tout. Le reste dépend de toi. Comment tu vois les choses. Quelle est la pulsion de vie en toi. »  
+*Série : Tutto chiede salvezza, S01E03* [^tutto-chiede-salvezza]
+
+
+
+[^tutto-chiede-salvezza]: *Tutto chiede salvezza* :  
+lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Nous_voulons_tous_être_sauvés)
+
+
+
+
+<!--------------------------------------------->
 <!------------------- Titre ------------------->
 <!--------------------------------------------->
 
