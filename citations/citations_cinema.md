@@ -26,7 +26,7 @@
 *Film : Kingdom of Heaven* [^Kingdom-of-Heaven]
 
 [^Kingdom-of-Heaven]: *Kingdom of Heaven* :  
-lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Kingdom_of_Heaven)
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Kingdom_of_Heaven)
 
 
 
@@ -46,7 +46,7 @@ lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Kingdom_of_Heaven)
 
 
 [^Seigneur-des-anneaux-1]: *Le Seigneur des anneaux : La Communauté de l'anneau* :  
-lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Le_Seigneur_des_anneaux_:_La_Communauté_de_l%27anneau)
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Le_Seigneur_des_anneaux_:_La_Communauté_de_l%27anneau)
 
 
 
@@ -61,13 +61,13 @@ lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Le_Seigneur_des_ann
 
 
 [^tutto-chiede-salvezza]: *Tutto chiede salvezza* :  
-lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Nous_voulons_tous_être_sauvés)
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Nous_voulons_tous_être_sauvés)
 
 
 
 
 <!--------------------------------------------->
-<!------------------- Titre ------------------->
+<!------------------- Film ------------------->
 <!--------------------------------------------->
 
 <!--
@@ -82,7 +82,28 @@ lire sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Nous_voulons_tous_�
 
 
 [^titre]: *titre* :  
-lire sa page wikipedia [*ici*](lien.com)
+Consulter sa page wikipedia [*ici*](lien.com)
+-->
+
+
+
+<!--------------------------------------------->
+<!------------------- Série ------------------->
+<!--------------------------------------------->
+
+<!--
+« citation »  
+*Série : titre, SxxExx* [^titre]
+
+
+\- « blablabla »  
+\- « blablabla. »  
+*Série : titre, SxxExx* [^titre]
+
+
+
+[^titre]: *titre* :  
+Consulter sa page wikipedia [*ici*](lien.com)
 -->
 
 
