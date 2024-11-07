@@ -10,6 +10,10 @@ Cette section regroupe ce que j'écris sur des incohérences et des aspects de n
 - [La place de la bise de notre société](monde-de-merde/2024-10-19_bise.md) (date du *19 octobre 2024*)
 - [Le monde est un bordel](monde-de-merde/2024-10-27_le-monde-est-un-bordel.md) (date du *27 octobre 2024*)
 
+<!--
+- [Model](fock-lamour.md) (date du *[**???**]*)
+-->
+
 
 ---
 
