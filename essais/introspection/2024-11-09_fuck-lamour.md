@@ -1,6 +1,6 @@
 # Fuck l'amour
 
-Je ne sais pas si je crois encore en l’amour, mais je ne suis pas sûr que mon texte devrait commencer ainsi.  
+Je ne sais pas si je crois encore en l’amour ; mais je ne suis pas sûr que mon texte devrait commencer ainsi.  
 En fait, je viens de vivre une rupture que j'ai très mal vécue. La personne en question a, selon moi, agi de manière profondément blessante. Ce qui fait qu’après quatre années plutôt belles de relation, je ne garde que très peu de bons souvenirs. J'ai ressenti — et ressens encore — énormément de colère à cause de la façon irrespectueuse dont la relation s'est terminée. Il me semble même que l'amour a laissé place à la haine vis-à-vis de cette personne.  
 Cette idée m'horripile.
 
