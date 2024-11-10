@@ -10,6 +10,6 @@ Pour être honnête, je ne sais pas encore exactement ce que j'y mettrai, mais v
 
 <!--
 Liens utils pour le dépot git:
-- git add -i : https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging
+- git add -i : https://git-scm.com/book/fr/v2/Utilitaires-Git-Indexation-interactive
 - git commit --amend --no-edit : https://medium.com/@boris.alexandre.rose/git-ajouter-des-fichiers-au-dernier-commit-comment-faire-f52f555771cd#:~:text=Il%20suffit%20d'utiliser%20la,réaliser%20le%20git%20%2D%2Damend%20.
 -->
