@@ -18,4 +18,4 @@ Le fantôme de cette relation me hante presque nuit et jour. L'amour est censé 
 *Date de publication : 9 novembre 2024*
 
 > [!TIP]  
-> Retourner à [la page sur les essais](../README.md) ou à [la page principale](../../README.md).
+> Retourner à [la page sur les essais](README.md) ou à [la page principale](../README.md).
