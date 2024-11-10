@@ -9,7 +9,7 @@ Ici, je mets mes essais sur des thèmes divers et variés. J'écris ces textes c
 
 
 <!--
-- [Model](aaaa-mm-dd_model.md) (date du *[**???**]*)
+- [Model](20xx-mm-dd_model.md) (date du *[**???**]*)
 -->
 
 
