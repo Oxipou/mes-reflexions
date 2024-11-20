@@ -80,6 +80,20 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Ma_vie_pour_la
 
 
 
+<!--------------------------------------------->
+<!----------- Nos étoiles contraires ---------->
+<!--------------------------------------------->
+
+« Dans ce monde on n'a pas le choix, on souffre, mais on peut toujours choisir par qui on souffre. »  
+*Film : Nos étoiles contraires* [^nos-étoiles-contraires]
+
+
+
+[^nos-étoiles-contraires]: *Nos étoiles contraires* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Nos_étoiles_contraires_(film))
+
+
+
 
 <!--------------------------------------------->
 <!------------------- Film ------------------->
