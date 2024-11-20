@@ -2,33 +2,33 @@
 
 
 Les arcs-en-ciel sont des drapeaux de la paix que Dieu déploie pour nous dire qu’il est gay  
-*TOI + MOI* - Laura Laune [^1]
+*TOI + MOI* - Laura Laune [^TOI+MOI]
 
-[^1]: *TOI + MOI* de Laura Laune, à écouter [*ici*](https://youtu.be/i__mG_vthHg?si=duP5lEWB6QMgmj9e)
+[^TOI+MOI]: *TOI + MOI* de Laura Laune, à écouter [*ici*](https://youtu.be/i__mG_vthHg?si=duP5lEWB6QMgmj9e)
 
 
 
 J'écoute absolument pas ce qu'on me dit  
 J'fais semblant d'être assis à mon siège  
-*Lettre à Zoé* - Fauve [^2]
+*Lettre à Zoé* - Fauve [^Lettre-Zoé]
 
-[^2]: *Lettre à Zoé* de Fauve, à écouter [*ici*](https://youtu.be/hWVnpLe_MbQ?si=i0RHAzM7167dMNXj)
+[^Lettre-Zoé]: *Lettre à Zoé* de Fauve, à écouter [*ici*](https://youtu.be/hWVnpLe_MbQ?si=i0RHAzM7167dMNXj)
 
 
 
 Qu’il n’est rien de plus beau qu’aimer  
 L’autre bien plus qu’on s’aime soi  
-*L'humaniste* - Damien Saez [^3]
+*L'humaniste* - Damien Saez [^L'humaniste]
 
-[^3]: *L'humaniste* de Damien Saez, à écouter [*ici*](https://youtu.be/G-oS3rv5eX0?si=hsC13E2g3-AXieh0)
+[^L'humaniste]: *L'humaniste* de Damien Saez, à écouter [*ici*](https://youtu.be/G-oS3rv5eX0?si=hsC13E2g3-AXieh0)
 
 
 
 <!--
-« citation »  
-*titre* - artiste [^x]
+« citation »  
+*titre* - artiste [^titre]
 
-[^x]: *titre* de artiste, à écouter [*ici*](lien.com)
+[^titre]: *titre* de artiste, à écouter [*ici*](lien.com)
 -->
 
 
