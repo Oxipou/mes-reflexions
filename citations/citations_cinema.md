@@ -67,6 +67,21 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Nous_voulons_t
 
 
 <!--------------------------------------------->
+<!----------- Ma vie pour la tienne ----------->
+<!--------------------------------------------->
+
+« Je n'ai toujours pas compris pourquoi elle est morte et nous, on est toujours en vie. Il ne doit pas y avoir de raisons. La mort, c'est la mort, et personne n'y comprend rien. »  
+*Film : Ma vie pour la tienne* [^ma-vie-pour-la-tienne]
+
+
+
+[^ma-vie-pour-la-tienne]: *Ma vie pour la tienne* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Ma_vie_pour_la_tienne)
+
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
