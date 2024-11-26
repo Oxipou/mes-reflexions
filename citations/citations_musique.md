@@ -24,6 +24,18 @@ L’autre bien plus qu’on s’aime soi
 
 
 
+Puis tu le dis si bien  
+Que c'est pas un métier  
+De chanter l'horizon  
+Puis qu'il faut une maison  
+Y a pas besoin de maison  
+Quand on a l'horizon  
+*Marie* – Damien Saez [^Marie]
+
+[^Marie]: *Marie* de Damien Saez, à écouter [*ici*](https://youtu.be/aHspFinn4eM?si=bNPxJu1BN-TjeIib)
+
+
+
 <!--
 citation  
 *titre* – artiste [^titre]
