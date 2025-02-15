@@ -96,6 +96,21 @@ Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Nos_étoiles_c
 
 
 <!--------------------------------------------->
+<!------------------ Avatar ------------------->
+<!--------------------------------------------->
+
+Oel ngati kameie  
+*Film : Avatar* [^Avatar]
+
+
+
+[^Avatar]: *Avatar* :  
+Consulter sa page wikipedia [*ici*](https://fr.wikipedia.org/wiki/Avatar_(film,_2009))
+
+
+
+
+<!--------------------------------------------->
 <!------------------- Film ------------------->
 <!--------------------------------------------->
 
